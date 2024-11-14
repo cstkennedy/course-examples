@@ -1,0 +1,15 @@
+[submodule "cs330-examples"]
+	path = cs330-examples
+	url = git@github.com:cstkennedy/cs330-examples.git
+[submodule "cs395-examples"]
+	path = cs395-examples
+	url = git@github.com:cstkennedy/cs395-examples.git
+[submodule "cs263-examples"]
+	path = cs263-examples
+	url = git@github.com:cstkennedy/cs263-examples.git
+[submodule "cs417-examples"]
+	path = cs417-examples
+	url = git@github.com:cstkennedy/cs417-examples.git
+[submodule "cs350-examples"]
+	path = cs350-examples
+	url = git@github.com:cstkennedy/cs350-examples.git
